@@ -5,4 +5,4 @@
 
 ## Installing
 
-Run `npm install` to install templates's basic dependencies
+Run `npm install` to install template's basic dependencies
